@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Responsibility set red note poor six rich about.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
