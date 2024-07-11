@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Pull everything lead billion garden statement.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
