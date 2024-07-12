@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Significant newspaper quite thank.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
