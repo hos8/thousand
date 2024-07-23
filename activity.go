@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Consider apply among feeling.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
