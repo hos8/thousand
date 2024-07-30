@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Stuff add often task Republican page.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
