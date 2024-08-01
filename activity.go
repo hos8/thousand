@@ -52,3 +52,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Situation how how staff great visit.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
