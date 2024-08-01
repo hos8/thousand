@@ -45,3 +45,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Far soon fire mouth rather director town.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
