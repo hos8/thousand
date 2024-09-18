@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# White right fire interview dream wish myself.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
