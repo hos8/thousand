@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Place cost well hundred government one.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
